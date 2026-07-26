@@ -182,8 +182,8 @@ EduTech-AI/
 | 📊 Retrieval Analysis | ✅ Completed |
 | 🤖 RAG Prompt Engineering | ✅ Completed |
 | 💬 LLM Response Generation | ✅ Completed |
-| 📚 README Documentation | 🚧 In Progress |
-| 👤 Authentication | ⬜ Planned |
+| 📚 README Documentation | ✅ Completed |
+| 👤 Authentication | 🚧 In Progress |
 | 📁 Multi-document Upload | ⬜ Planned |
 | 🤝 Multi-Agent AI | ⬜ Planned |
 | 📝 AI Quiz Generator | ⬜ Planned |
