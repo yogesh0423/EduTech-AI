@@ -1,2 +1,0 @@
-# Converts the videos to mp3
-import whisper
