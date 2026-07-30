@@ -30,7 +30,7 @@ weights/
 *.bin
 *.safetensors
 
-videos/
-audio/
+Videos/
+audios/
 unused/
 downloads/
