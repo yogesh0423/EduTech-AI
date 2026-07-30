@@ -1,0 +1,309 @@
+{
+    "chunks": [
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 0,
+            "start": 0.0,
+            "end": 9.0,
+            "text": " So what I will do is, I am going to open my main.py"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 1,
+            "start": 9.0,
+            "end": 13.0,
+            "text": " I am going to open my main.py"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 2,
+            "start": 13.0,
+            "end": 19.0,
+            "text": " and the output of my main.py"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 3,
+            "start": 19.0,
+            "end": 21.0,
+            "text": " is going to show you"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 4,
+            "start": 21.0,
+            "end": 24.0,
+            "text": " So if I write a friend, I am a good boy"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 5,
+            "start": 24.0,
+            "end": 27.0,
+            "text": " so there is no doubt that I am a good boy"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 6,
+            "start": 27.0,
+            "end": 29.0,
+            "text": " so I am going to get a friend."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 7,
+            "start": 29.0,
+            "end": 32.0,
+            "text": " In fact, in the statement of the print, in double quotes,"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 8,
+            "start": 32.0,
+            "end": 35.0,
+            "text": " whatever you will give, you will see that you will get a friend."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 9,
+            "start": 35.0,
+            "end": 37.0,
+            "text": " So I am going to get a friend."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 10,
+            "start": 37.0,
+            "end": 41.0,
+            "text": " and you will see that I am a good boy."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 11,
+            "start": 41.0,
+            "end": 44.0,
+            "text": " I am going to enter my name."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 12,
+            "start": 44.0,
+            "end": 50.0,
+            "text": " and this viewer is also a good boy."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 13,
+            "start": 50.0,
+            "end": 51.0,
+            "text": " Slash girl."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 14,
+            "start": 51.0,
+            "end": 53.0,
+            "text": " So if I do this,"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 15,
+            "start": 53.0,
+            "end": 55.0,
+            "text": " then what is this red line?"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 16,
+            "start": 55.0,
+            "end": 57.0,
+            "text": " This is the blood of the blood."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 17,
+            "start": 57.0,
+            "end": 59.0,
+            "text": " How is this red line?"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 18,
+            "start": 59.0,
+            "end": 61.0,
+            "text": " I will tell you what is the meaning of this."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 19,
+            "start": 61.0,
+            "end": 64.0,
+            "text": " Python basically says,"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 20,
+            "start": 64.0,
+            "end": 65.0,
+            "text": " You know what?"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 21,
+            "start": 65.0,
+            "end": 67.0,
+            "text": " You wrote your print, you did double quotes."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 22,
+            "start": 67.0,
+            "end": 71.0,
+            "text": " But you didn't like it."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 23,
+            "start": 71.0,
+            "end": 75.0,
+            "text": " So what I do?"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 24,
+            "start": 75.0,
+            "end": 77.0,
+            "text": " I want a new line."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 25,
+            "start": 77.0,
+            "end": 79.0,
+            "text": " Python says,"
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 26,
+            "start": 79.0,
+            "end": 81.0,
+            "text": " You should have a new line."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 27,
+            "start": 81.0,
+            "end": 85.0,
+            "text": " So you will do a scape sequence."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 28,
+            "start": 85.0,
+            "end": 89.0,
+            "text": " This will be the backslash n."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 29,
+            "start": 89.0,
+            "end": 91.0,
+            "text": " And you don't have to hit the new line literally."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 30,
+            "start": 91.0,
+            "end": 92.0,
+            "text": " Okay."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 31,
+            "start": 92.0,
+            "end": 95.0,
+            "text": " Just write the backslash n. Python will take care of it."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 32,
+            "start": 95.0,
+            "end": 97.0,
+            "text": " Now you have got backslash n."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 33,
+            "start": 97.0,
+            "end": 98.0,
+            "text": " I am a good boy."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 34,
+            "start": 98.0,
+            "end": 99.0,
+            "text": " I wrote the backslash n."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 35,
+            "start": 99.0,
+            "end": 101.0,
+            "text": " you will run like a code."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 36,
+            "start": 101.0,
+            "end": 103.0,
+            "text": " I am a good boy."
+        },
+        {
+            "number": "3 ",
+            "title": "Escape Sequence Characters",
+            "id": 37,
+            "start": 103.0,
+            "end": 105.0,
+            "text": " And this viewer is also a good boy."
+        }
+    ],
+    "text": " So what I will do is, I am going to open my main.py I am going to open my main.py and the output of my main.py is going to show you So if I write a friend, I am a good boy so there is no doubt that I am a good boy so I am going to get a friend. In fact, in the statement of the print, in double quotes, whatever you will give, you will see that you will get a friend. So I am going to get a friend. and you will see that I am a good boy. I am going to enter my name. and this viewer is also a good boy. Slash girl. So if I do this, then what is this red line? This is the blood of the blood. How is this red line? I will tell you what is the meaning of this. Python basically says, You know what? You wrote your print, you did double quotes. But you didn't like it. So what I do? I want a new line. Python says, You should have a new line. So you will do a scape sequence. This will be the backslash n. And you don't have to hit the new line literally. Okay. Just write the backslash n. Python will take care of it. Now you have got backslash n. I am a good boy. I wrote the backslash n. you will run like a code. I am a good boy. And this viewer is also a good boy."
+}

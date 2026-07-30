@@ -1,0 +1,261 @@
+{
+    "chunks": [
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Now what is the print in the print Python programming?"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 1,
+            "start": 4.0,
+            "end": 6.0,
+            "text": " Print is a function."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 2,
+            "start": 6.0,
+            "end": 10.0,
+            "text": " What is the function? Basically, you use some task to perform."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 3,
+            "start": 10.0,
+            "end": 13.0,
+            "text": " Print is a function to invoke any function."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 4,
+            "start": 13.0,
+            "end": 17.0,
+            "text": " We use some of these as our parentheses."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 5,
+            "start": 17.0,
+            "end": 21.0,
+            "text": " As you can see, after I write a PRI entry,"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 6,
+            "start": 21.0,
+            "end": 25.0,
+            "text": " I can close the parentheses and then I can write it in this way."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 7,
+            "start": 25.0,
+            "end": 28.0,
+            "text": " And in this, I will write whatever I write in it, I will get print documents."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 8,
+            "start": 28.0,
+            "end": 31.0,
+            "text": " I know that I write 7, so I will get 7 print documents."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 9,
+            "start": 31.0,
+            "end": 33.0,
+            "text": " But we will know what we will do."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 10,
+            "start": 33.0,
+            "end": 35.0,
+            "text": " We will write a Hello World."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 11,
+            "start": 35.0,
+            "end": 38.0,
+            "text": " And you will have heard about Python programming."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 12,
+            "start": 38.0,
+            "end": 41.0,
+            "text": " In any programming language, when someone writes a code,"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 13,
+            "start": 41.0,
+            "end": 45.0,
+            "text": " the first program is written by the Hello World."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 14,
+            "start": 45.0,
+            "end": 48.0,
+            "text": " You can see here that, as I have written a print in the print,"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 15,
+            "start": 48.0,
+            "end": 50.0,
+            "text": " I will write a line of red color here."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 16,
+            "start": 50.0,
+            "end": 53.0,
+            "text": " Let's run it and see what is this."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 17,
+            "start": 53.0,
+            "end": 57.0,
+            "text": " So, if you are writing a print in the print,"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 18,
+            "start": 57.0,
+            "end": 60.0,
+            "text": " I will write a print in the print."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 19,
+            "start": 60.0,
+            "end": 63.0,
+            "text": " I will write a print in the print."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 20,
+            "start": 63.0,
+            "end": 68.0,
+            "text": " When you print Python, you have to write a valid object."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 21,
+            "start": 68.0,
+            "end": 71.0,
+            "text": " Hello World is a valid object."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 22,
+            "start": 71.0,
+            "end": 74.0,
+            "text": " Python says, I don't know."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 23,
+            "start": 74.0,
+            "end": 77.0,
+            "text": " Yes, but if you are doing a double code,"
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 24,
+            "start": 77.0,
+            "end": 79.0,
+            "text": " you can do this thing."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 25,
+            "start": 79.0,
+            "end": 82.0,
+            "text": " Python is talking about a string in the knowledge of Python programming."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 26,
+            "start": 82.0,
+            "end": 84.0,
+            "text": " Hello World is a string."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 27,
+            "start": 84.0,
+            "end": 86.0,
+            "text": " Let's run it and see what is this."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 28,
+            "start": 86.0,
+            "end": 88.0,
+            "text": " We have written a first program."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 29,
+            "start": 88.0,
+            "end": 90.0,
+            "text": " We are looking at the Hello World."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 30,
+            "start": 90.0,
+            "end": 92.0,
+            "text": " We are looking at the output of Hello World."
+        },
+        {
+            "number": "2 ",
+            "title": "Our first python program",
+            "id": 31,
+            "start": 92.0,
+            "end": 93.0,
+            "text": " Let's start the talk."
+        }
+    ],
+    "text": " Now what is the print in the print Python programming? Print is a function. What is the function? Basically, you use some task to perform. Print is a function to invoke any function. We use some of these as our parentheses. As you can see, after I write a PRI entry, I can close the parentheses and then I can write it in this way. And in this, I will write whatever I write in it, I will get print documents. I know that I write 7, so I will get 7 print documents. But we will know what we will do. We will write a Hello World. And you will have heard about Python programming. In any programming language, when someone writes a code, the first program is written by the Hello World. You can see here that, as I have written a print in the print, I will write a line of red color here. Let's run it and see what is this. So, if you are writing a print in the print, I will write a print in the print. I will write a print in the print. When you print Python, you have to write a valid object. Hello World is a valid object. Python says, I don't know. Yes, but if you are doing a double code, you can do this thing. Python is talking about a string in the knowledge of Python programming. Hello World is a string. Let's run it and see what is this. We have written a first program. We are looking at the Hello World. We are looking at the output of Hello World. Let's start the talk."
+}
