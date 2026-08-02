@@ -1,7 +1,9 @@
 import requests
 import os
 import json
+import numpy as np
 import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
 
 def create_embedding(text_list):
     r = requests.post("http://localhost:11434/api/embed", json={
@@ -35,7 +37,14 @@ for json_file in jsons:
 # print(my_dict)
 
 df = pd.DataFrame.from_records(my_dict)
-print(df)
+# print(df)
 
-# a = create_embedding("Hello, world!")
-# print(a)
+
+incoming_query = input("Ask a Question:  ")
+question_embedding = create_embedding([incoming_query])[0]
+# print(f"Question Embedding: {question_embedding}")
+
+# Calculate cosine similarity between the question embedding and all chunk embeddings
+similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
+max_indx = similarities.argsort()[::-1]  # Indices of chunks sorted by similarity (highest first)
+print(max_indx)
