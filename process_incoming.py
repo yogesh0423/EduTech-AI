@@ -36,5 +36,17 @@ new_df = df.loc[max_indx]
 print(new_df[['id','title','text']])  
 
 
-for index, item in new_df.iterrows():
-    print(f"Chunk ID: {item['id']}, Title: {item['title']}, Text: {item['text']}", item['start'], item['end'])
+prompt = f''' I am teaching Python using 100 Days of python course. Here are video subtitle chunks containing video tile. video number, start time in seconds, end time in seconds, the text at that :
+
+{new_df[['id','title','text','start','end']].to_json(orient="records")}
+----------------------------------------------
+{incoming_query}
+User asked this question related to the video chunks, you have to answer where and how much content is taught in which video ( in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the video content. If you are not sure about the answer, say "I am not sure about this answer". Do not make up any answer.'''
+
+
+with open("prompt.txt", "w") as f:
+    f.write(prompt)
+
+
+# for index, item in new_df.iterrows():
+#     print(f"Chunk ID: {item['id']}, Title: {item['title']}, Text: {item['text']}", item['start'], item['end'])
