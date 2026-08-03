@@ -4,6 +4,7 @@ import json
 import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
+import joblib
 
 def create_embedding(text_list):
     # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
@@ -39,19 +40,6 @@ for json_file in jsons:
 
 df = pd.DataFrame.from_records(my_dict)
 # print(df)
+joblib.dump(df, 'embeddings.joblib')
 
 
-incoming_query = input("Ask a Question:  ")
-question_embedding = create_embedding([incoming_query])[0]
-# print(f"Question Embedding: {question_embedding}")
-
-
-# Calculate cosine similarity between the question embedding and all chunk embeddings
-similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
-print(f"Similarities: {similarities}")
-
-top_results = 5  
-max_indx = similarities.argsort()[::-1][0:top_results]  # Indices of chunks sorted by similarity (highest first)
-print(max_indx)
-new_df = df.loc[max_indx]
-print(new_df[['id','title','text']])  
