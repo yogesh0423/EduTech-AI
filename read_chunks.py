@@ -49,15 +49,9 @@ question_embedding = create_embedding([incoming_query])[0]
 # Calculate cosine similarity between the question embedding and all chunk embeddings
 similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
 print(f"Similarities: {similarities}")
-max_indx = similarities.argsort()[::-1]  # Indices of chunks sorted by similarity (highest first)
+
+top_results = 5  
+max_indx = similarities.argsort()[::-1][0:top_results]  # Indices of chunks sorted by similarity (highest first)
 print(max_indx)
-
-top_k = 5
-top_indices = similarities.argsort()[::-1][:top_k]
-
-print("\nTop Results:\n")
-
-for idx in top_indices:
-    print("=" * 80)
-    print(f"Similarity: {similarities[idx]:.4f}")
-    print(df.iloc[idx]["text"])
+new_df = df.loc[max_indx]
+print(new_df[['id','title','text']])  
