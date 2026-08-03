@@ -34,3 +34,7 @@ max_indx = similarities.argsort()[::-1][0:top_results]  # Indices of chunks sort
 print(max_indx)
 new_df = df.loc[max_indx]
 print(new_df[['id','title','text']])  
+
+
+for index, item in new_df.iterrows():
+    print(f"Chunk ID: {item['id']}, Title: {item['title']}, Text: {item['text']}", item['start'], item['end'])
