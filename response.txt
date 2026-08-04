@@ -1,9 +1,10 @@
-Hello Welcome to 100 Days of Python course.
+Hello,
+You asked a great question about the 100 Days of Python course.
 
-In your current course, Hello World is taught in Video Number 30, at timestamps between 33.0 and 35.0 seconds.
+Here's where and how much content is taught on escape sequence characters in each video:
 
-You can find more information about the video content in the provided subtitle chunks, located here:
-
-[{"id":30,"title":"Our first python program","text":" We will write a Hello World.","start":33.0,"end":35.0},{"id":49,"title":"Our first python program","text":" We are looking at the Hello World.","start":88.0,"end":90.0},{"id":46,"title":"Our first python program","text":" Hello World is a string.","start":82.0,"end":84.0},{"id":33,"title":"Our first python program","text":" the first program is written by the Hello World.","start":41.0,"end":45.0},{"id":50,"title":"Our first python program","text":" We are looking at the output of Hello World.","start":90.0,"end":92.0}]
-
-You can use these video chunks to track your progress and identify the exact timestamp where Hello World is taught in your course.
+*   Video ID: 17
+    *   Start time: 56 seconds
+    *   End time: 59 seconds
+    *   The text at that point is: "So, I will practice my computer pattern."
+This is where the concept of escape sequences and their usage in Python programming are introduced.
