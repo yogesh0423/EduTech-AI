@@ -1,20 +1,16 @@
 Hello, I'd be happy to help you with your 100 Days of Python course.
 
-The video subtitle chunks contain information about the video title, start and end times, and the text at that timestamp. To find out where escape sequence characters are taught in this course, let's analyze the given chunks:
+According to the video subtitle chunks, escape sequence characters are taught in Video Chunk #12.
 
-* [{"id":15,"title":"Introduction to python","text":" In this course, we will practice a lot of exercises and quizzes with theory.","start":48.0,"end":53.0}]
-* [{"id":79,"title":"Escape Sequence Characters","text":" So you will do a scape sequence.","start":81.0,"end":85.0}]
-* [{"id":12,"title":"Introduction to python","text":" When we were working on this language in a show called Monti Python","start":40.0,"end":44.0}]
-* [{"id":87,"title":"Escape Sequence Characters","text":" you will run like a code.","start":99.0,"end":101.0}]
-* [{"id":17,"title":"Introduction to python","text":" So, I will practice my computer pattern.","start":56.0,"end":59.0}]
+Here's a breakdown of where and how much content is taught:
 
-Based on these chunks, the escape sequence characters are taught in videos with IDs 79 and 87.
+- Text: "When we were working on this language in a show called Monti Python"
+- Start Time: 40.0 seconds
+- End Time: 44.0 seconds
 
-To find out where they are taught, let's look at their timestamps:
+You can find Video Chunk #12 by searching for the following video title:
+"Introduction to python"
 
-* Video ID 79 starts at 81 seconds (start) and ends at 85 seconds (end). This corresponds to the chunk: [{"id":79,"title":"Escape Sequence Characters","text":" So you will do a scape sequence.","start":81.0,"end":85.0}]
-* Video ID 87 starts at 99 seconds (start) and ends at 101 seconds (end). This corresponds to the chunk: [{"id":87,"title":"Escape Sequence Characters","text":" you will run like a code.","start":99.0,"end":101.0}]
+If you're looking for further information about escape sequence characters, I recommend checking out Video Chunk #79.
 
-So, escape sequence characters are taught in videos with IDs 79 and 87.
-
-You can go to these video chunks to learn more about escape sequence characters.
+Please let me know if this answers your question or if you have any further questions!
